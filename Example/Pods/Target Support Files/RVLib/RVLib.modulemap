@@ -1,0 +1,6 @@
+framework module RVLib {
+  umbrella header "RVLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

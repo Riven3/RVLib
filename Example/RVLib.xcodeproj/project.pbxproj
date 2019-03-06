@@ -29,10 +29,10 @@
 
 /* Begin PBXFileReference section */
 		0C69B1C460E4ED0EFAF20657 /* Pods-RVLib_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RVLib_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-RVLib_Tests/Pods-RVLib_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		36FB38AF35A5005317552C74 /* RVLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = RVLib.podspec; path = ../RVLib.podspec; sourceTree = "<group>"; };
+		36FB38AF35A5005317552C74 /* RVLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = RVLib.podspec; path = ../RVLib.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		45F89182C8F01C3EFE664E66 /* Pods_RVLib_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RVLib_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		532152A649E8B281BA903348 /* Pods-RVLib_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RVLib_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-RVLib_Example/Pods-RVLib_Example.release.xcconfig"; sourceTree = "<group>"; };
-		56B6F8CAD18B4FEE5EE75237 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		56B6F8CAD18B4FEE5EE75237 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* RVLib_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RVLib_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		607FACE51AFB9204008FA782 /* RVLib_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RVLib_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		73E22E6982E56C5A4F03D18A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		73E22E6982E56C5A4F03D18A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		7CF171C728AE3FFCA77F4D00 /* Pods-RVLib_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RVLib_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RVLib_Example/Pods-RVLib_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		8700C1487A8804F9B5A4B711 /* Pods-RVLib_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RVLib_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RVLib_Tests/Pods-RVLib_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		890F4A2D993A387A536C0B36 /* Pods_RVLib_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RVLib_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
